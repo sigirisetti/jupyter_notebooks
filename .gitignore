@@ -22,4 +22,5 @@ npm-debug.log
 **/translator-*/**
 **/log/**
 tmp/
-**/*checkpoint.ipynb
+.ipynb_checkpoints/
+
